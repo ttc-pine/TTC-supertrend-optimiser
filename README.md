@@ -23,7 +23,7 @@ The Supertrend Optimiser identifies the best-performing parameters for the symbo
 
 
 ### Video demonstration:
-https://github.com/user-attachments/assets/c285f2aa-03eb-4f82-abd7-fbb9be77f7bd
+https://github.com/user-attachments/assets/647ed400-502b-4367-8cf3-b2564a9ee0e0
 
 
 ### Applications
