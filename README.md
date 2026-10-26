@@ -21,6 +21,9 @@ The Supertrend Optimiser identifies the best-performing parameters for the symbo
 5. Review the strategy's backtest report to determine whether its performance meets your requirements.
 6. If the results are satisfactory, consider using the Supertrend for further analysis or as part of your trading strategy.
 
+https://github.com/user-attachments/assets/c285f2aa-03eb-4f82-abd7-fbb9be77f7bd
+
+
 ### Applications
 
 Beyond using the Supertrend as a trading strategy, you can also use it for technical analysis:
@@ -35,17 +38,25 @@ The Supertrend Optimiser provides several settings that allow you to customise t
 
 ### 1. Parameter Range
 
+<img width="501" height="150" alt="Screenshot 2026-10-26 112024" src="https://github.com/user-attachments/assets/629bc108-7d8e-4aaf-9c8f-400d19b2daab" />
+
 Configure the range of Supertrend parameters to be tested during optimisation. This allows you to control which parameter combinations are included in the analysis.
 
 ### 2. Optimisation Criteria
+
+<img width="318" height="173" alt="Screenshot 2026-10-26 113329" src="https://github.com/user-attachments/assets/c9222d88-546f-4a4d-a994-5ebbd6ddf0a3" />
 
 Choose the performance metric used to identify the best parameters, such as **Profit and Loss (PnL)** or **Accuracy**.
 
 ### 3. Result Filters
 
+<img width="292" height="302" alt="Screenshot 2026-10-26 113120" src="https://github.com/user-attachments/assets/1e066efa-fef3-431d-b08c-fe94cf34443e" />
+
 Apply filters to exclude parameter combinations that do not meet your specified criteria. Only the results satisfying the selected filters will be retained.
 
 ### 4. Commission Settings
+
+<img width="289" height="50" alt="Screenshot 2026-10-26 113438" src="https://github.com/user-attachments/assets/d6464ea6-3de0-49b6-a8f9-5227e80c04e0" />
 
 Include trading commissions in the backtests to account for transaction costs when evaluating the performance of different parameter combinations.
 
