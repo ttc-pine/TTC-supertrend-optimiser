@@ -49,7 +49,7 @@ Apply filters to exclude parameter combinations that do not meet your specified 
 
 Include trading commissions in the backtests to account for transaction costs when evaluating the performance of different parameter combinations.
 
-For a detailed explanation of each setting, refer to the [Supertrend Optimiser Settings Guide](LINK_TO_THE_POST).
+For a detailed explanation of each setting, refer to the [Supertrend Optimiser Settings Guide](optimiser-settings-guide/optimiser-settings-guide.md).
 
 ## Performance Reports
 
