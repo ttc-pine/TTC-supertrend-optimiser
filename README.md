@@ -71,13 +71,9 @@ The following reports present the backtesting results of the Supertrend strategy
 ![performance in NIFTY50](performance-reports/NIFTY50-report.gif)
 [Check the performance of strategy in NIFTY50 here!](performance-reports/NIFTY50-report.gif)
 
-### ⚠️ Important Note on Backtesting
+### Important Note on Backtesting
 
-Due to TradingView's limitations, the optimiser can backtest parameter combinations only on the historical data available(around 20,000 bars/candles) on the chart. Therefore, the top-performing parameters identified by the optimiser are based on the available chart data and may not be the best-performing parameters across the entire historical period.
-
-**For more reliable evaluation, we recommend validating the selected parameters using TradingView's Deep Backtesting feature** before using them in live trading. This helps you assess their performance over a more extensive historical period.
-
-Based on our testing, most of the parameter combinations identified by the optimiser have also performed well across the full chart history when evaluated using Deep Backtesting. However, past performance does not guarantee future results.
+Due to TradingView's limitations, the optimiser can backtest parameter combinations only on the historical data available on the chart. Therefore, the top-performing parameters identified by the optimiser are based on the available chart data and may not be the best-performing parameters across the entire historical period.
 
 
 ## Disclaimer
