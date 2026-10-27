@@ -66,9 +66,18 @@ For a detailed explanation of each setting, refer to the [Supertrend Optimiser S
 
 ## Performance Reports
 
-This section presents the backtest reports of the best-performing Supertrend parameters identified by the optimiser across selected markets and timeframes.
+This are the backtest reports of supertrend strategy(for best-performing Supertrend parameters identified by the optimiser) in chart available data for NIFTY50 index across various timeframes(1M, 3M, 5M, 10M, 15M, 30M, 1H, 4H and 1D).
+<img width="1260" height="620" alt="B3nTn" src="https://github.com/user-attachments/assets/1f30a808-871f-4c03-b299-09b2895d0caf" />
 
-For detailed performance reports across various markets, visit the [Supertrend Optimiser Performance Reports](LINK_TO_THE_WEBSITE).
+
+### ⚠️ Important Note on Backtesting
+
+Due to TradingView's limitations, the optimiser can backtest parameter combinations only on the historical data available(around 20,000 bars/candles) on the chart. Therefore, the top-performing parameters identified by the optimiser are based on the available chart data and may not be the best-performing parameters across the entire historical period.
+
+**For more reliable evaluation, we recommend validating the selected parameters using TradingView's Deep Backtesting feature** before using them in live trading. This helps you assess their performance over a more extensive historical period.
+
+Based on our testing, most of the parameter combinations identified by the optimiser have also performed well across the full chart history when evaluated using Deep Backtesting. However, past performance does not guarantee future results.
+
 
 ## Disclaimer
 
