@@ -69,6 +69,7 @@ For a detailed explanation of each setting, refer to the [Supertrend Optimiser S
 The following reports present the backtesting results of the Supertrend strategy using the best-performing parameter combinations identified by the optimiser, based on the available chart data for the NIFTY 50 Index across nine timeframes: 1-minute, 3-minute, 5-minute, 10-minute, 15-minute, 30-minute, 1-hour, 4-hour, and daily.
 
 ![performance in NIFTY50](performance-reports/NIFTY50-report.gif)
+[Check the performance in NIFTY50 here!](performance-reports/NIFTY50-report.gif)
 
 ### ⚠️ Important Note on Backtesting
 
