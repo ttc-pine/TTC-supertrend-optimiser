@@ -8,28 +8,28 @@ The optimiser provides six inputs to control the parameter combinations tested.
 
 | Input | Description |
 |---|---|
-| Start Length | The first Supertrend length to test. |
-| Length Iteration | The number of different length values to test. |
-| Length Steps | The increment between consecutive length values. |
-| Start Multiplier | The first Supertrend multiplier to test. |
-| Multiplier Iteration | The number of different multiplier values to test. |
-| Multiplier Steps | The increment between consecutive multiplier values. |
+| Start INPUT 1 | The first input of INPUT 1 to test. |
+| INPUT 1 Iteration | The number of different INPUT 1 values to test. |
+| INPUT 1 Steps | The increment between consecutive INPUT 1 values. |
+| Start INPUT 2 | The first input of INPUT 2 to test. |
+| INPUT 2 Iteration | The number of different INPUT 2 values to test. |
+| INPUT 2 Steps | The increment between consecutive INPUT 2 values. |
 
 **Example configuration:**
 
 ```text
-Start Length        = 1
-Length Iteration    = 5
-Length Steps        = 1
+Start INPUT 1        = 1
+INPUT 1 Iteration    = 5
+INPUT 1 Steps        = 1
 
-Start Multiplier     = 0.5
-Multiplier Iteration = 4
-Multiplier Steps     = 0.5
+Start INPUT 2     = 0.5
+INPUT 2 Iteration = 4
+INPUT 2 Steps     = 0.5
 ```
 
 The optimiser generates the following parameter combinations:
 
-| Length | Multipliers |
+| INPUT 1 | INPUT 2 |
 |---:|---|
 | 1 | 0.5, 1.0, 1.5, 2.0 |
 | 2 | 0.5, 1.0, 1.5, 2.0 |
@@ -112,4 +112,4 @@ The optimiser ranks parameter combinations based on historical backtest results.
 
 Backtest results may differ from actual trading outcomes due to slippage, commissions, liquidity, and execution conditions.
 
-The Supertrend Optimiser and Supertrend Strategy do not guarantee profitability. Always conduct your own research and testing before making trading decisions. Use both scripts responsibly and at your own risk.
+The TTC Optimiser and TTC Strategy do not guarantee profitability. Always conduct your own research and testing before making trading decisions. Use both scripts responsibly and at your own risk.
