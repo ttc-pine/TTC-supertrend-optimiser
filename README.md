@@ -1,3 +1,5 @@
+<img width="1376" height="768" alt="image_353b5a75" src="https://github.com/user-attachments/assets/62baf2ea-e07f-4d87-9a76-5e8d45f1f1dc" />
+
 # TTC Optimiser
 
 ## What Is the TTC Optimiser?
@@ -23,7 +25,7 @@ The TTC Optimiser identifies the best-performing parameters for the symbol and t
 
 
 ### Video demonstration:
-https://github.com/user-attachments/assets/647ed400-502b-4367-8cf3-b2564a9ee0e0
+[![How to use TTC strategy and optimiser](https://github.com/user-attachments/assets/62baf2ea-e07f-4d87-9a76-5e8d45f1f1dc)](https://github.com/user-attachments/assets/647ed400-502b-4367-8cf3-b2564a9ee0e0)
 
 
 ## TTC Optimiser Settings
@@ -60,8 +62,7 @@ For a detailed explanation of each setting, refer to the [Supertrend Optimiser S
 
 The following reports present the backtesting results of the TTC strategy using the best-performing parameter combinations identified by the TTC optimiser, based on the available chart data for the NIFTY 50 Index across nine timeframes: 1-minute, 3-minute, 5-minute, 10-minute, 15-minute, 30-minute, 1-hour, 4-hour, and daily.
 
-![performance in NIFTY50](performance-reports/NIFTY50-report.gif)
-[Check the performance of strategy in NIFTY50 here!](performance-reports/NIFTY50-report.gif)
+[![performance in NIFTY50](https://github.com/user-attachments/assets/9d3ab4ae-5ae5-4838-a608-cf28a4beb1a0)](performance-reports/NIFTY50-report.gif)
 
 ### Important Note on Backtesting
 
