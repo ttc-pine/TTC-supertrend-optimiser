@@ -1,48 +1,40 @@
-# Supertrend Optimiser
+# TTC Optimiser
 
-## What Is the Supertrend Optimiser?
+## What Is the TTC Optimiser?
 
-The **Supertrend Optimiser** is a tool designed to help traders find suitable input parameters for the Supertrend indicator. It backtests **1,600 different parameter combinations** and identifies the best-performing parameters based on the selected optimisation criteria.
+The **TTC Optimiser** is a tool designed to help traders find suitable input parameters for the TTC strategy. It backtests **1,600 different parameter combinations** and identifies the best-performing parameters based on the selected optimisation criteria.
 
-The performance and behaviour of technical indicators can vary significantly across different symbols and timeframes. As a result, finding suitable Supertrend settings for a particular market and timeframe can be challenging and time-consuming.
+The performance and behaviour of technical indicators can vary significantly across different symbols and timeframes. As a result, finding suitable strategy that performs well across various symnols and timeframes can be challenging.
 
-The Supertrend Optimiser addresses this problem by comparing the backtest results of 1,600 parameter combinations and identifying the best-performing settings for a specific symbol and timeframe in just seconds.
+The TTC Optimiser addresses this problem by comparing the backtest results of 1,600 parameter combinations and identifying the best-performing settings for a specific symbol and timeframe in just seconds.
 
-## How to Use the Supertrend Optimiser
+## How to Use the TTC Optimiser
 
-The Supertrend Optimiser identifies the best-performing parameters for the symbol and timeframe on which it is applied, based on your selected optimisation criteria.
+The TTC Optimiser identifies the best-performing parameters for the symbol and timeframe on which it is applied, based on your selected optimisation criteria.
 
 ### Steps
 
-1. Add the **Supertrend Optimiser** to your chart.
+1. Add the **TTC Optimiser** to your chart.
 2. Configure the optimisation settings according to your requirements.
 3. Run the optimiser and note the best-performing parameters.
-4. Enter the selected parameters into the **Supertrend Strategy**.
+4. Enter the selected parameters into the **TTC Strategy**.
 5. Review the strategy's backtest report to determine whether its performance meets your requirements.
-6. If the results are satisfactory, consider using the Supertrend for further analysis or as part of your trading strategy.
+6. If the results are satisfactory, consider using the strategy for further analysis or as part of your trading strategy.
 
 
 ### Video demonstration:
 https://github.com/user-attachments/assets/647ed400-502b-4367-8cf3-b2564a9ee0e0
 
 
-### Applications
+## TTC Optimiser Settings
 
-Beyond using the Supertrend as a trading strategy, you can also use it for technical analysis:
-
-- **Trailing Stop-Loss:** Use the Supertrend line as a reference for managing trailing stop-loss levels.
-- **Trend Detection:** Identify potential bullish and bearish market trends.
-- **Dynamic Support and Resistance:** Use the Supertrend line as a potential dynamic support or resistance level.
-
-## Supertrend Optimiser Settings
-
-The Supertrend Optimiser provides several settings that allow you to customise the optimisation process.
+The TTC Optimiser provides several settings that allow you to customise the optimisation process.
 
 ### 1. Parameter Range
 
 <img width="501" height="150" alt="Screenshot 2026-10-26 112024" src="https://github.com/user-attachments/assets/629bc108-7d8e-4aaf-9c8f-400d19b2daab" />
 
-Configure the range of Supertrend parameters to be tested during optimisation. This allows you to control which parameter combinations are included in the analysis.
+Configure the range of TTC strategy parameters to be tested during optimisation. This allows you to control which parameter combinations are included in the analysis.
 
 ### 2. Optimisation Criteria
 
@@ -66,7 +58,7 @@ For a detailed explanation of each setting, refer to the [Supertrend Optimiser S
 
 ## Performance Reports
 
-The following reports present the backtesting results of the Supertrend strategy using the best-performing parameter combinations identified by the optimiser, based on the available chart data for the NIFTY 50 Index across nine timeframes: 1-minute, 3-minute, 5-minute, 10-minute, 15-minute, 30-minute, 1-hour, 4-hour, and daily.
+The following reports present the backtesting results of the TTC strategy using the best-performing parameter combinations identified by the TTC optimiser, based on the available chart data for the NIFTY 50 Index across nine timeframes: 1-minute, 3-minute, 5-minute, 10-minute, 15-minute, 30-minute, 1-hour, 4-hour, and daily.
 
 ![performance in NIFTY50](performance-reports/NIFTY50-report.gif)
 [Check the performance of strategy in NIFTY50 here!](performance-reports/NIFTY50-report.gif)
@@ -78,8 +70,8 @@ Due to TradingView's limitations, the optimiser can backtest parameter combinati
 
 ## Disclaimer
 
-The Supertrend Optimiser identifies the best-performing parameters based on historical backtest results. However, **past performance does not guarantee future results**. Market conditions can change, and parameters that performed well historically may not perform as expected in live trading.
+The TTC Optimiser identifies the best-performing parameters based on historical backtest results. However, **past performance does not guarantee future results**. Market conditions can change, and parameters that performed well historically may not perform as expected in live trading.
 
 Backtest results may also differ from actual trading results due to factors such as slippage, transaction costs, and execution conditions.
 
-The Supertrend Optimiser and Supertrend Strategy are analytical tools and do not guarantee profitability. Use both scripts responsibly and at your own risk. Always conduct your own research and testing before making trading decisions.
+The TTC Optimiser and TTC Strategy are analytical tools and do not guarantee profitability. Use both scripts responsibly and at your own risk. Always conduct your own research and testing before making trading decisions.
