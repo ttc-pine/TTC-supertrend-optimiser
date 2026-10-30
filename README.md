@@ -2,11 +2,11 @@
 
 ## What Is the TTC Optimiser?
 
-The **TTC Optimiser** is a tool designed to help traders find suitable input parameters for the TTC strategy. It backtests **1,600 different parameter combinations** and identifies the best-performing parameters based on the selected optimisation criteria.
+The **TTC Optimiser** is a powerful tool designed to help traders identify the most suitable input parameters for the TTC strategy. It backtests **1,600 unique parameter combinations** and determines the best-performing settings based on the selected optimisation criteria.
 
-The performance and behaviour of technical indicators can vary significantly across different symbols and timeframes. As a result, finding suitable strategy that performs well across various symnols and timeframes can be challenging.
+The effectiveness of technical indicators can vary significantly depending on the trading symbol and timeframe. Consequently, finding a set of strategy parameters that delivers consistent performance across different market conditions can be challenging.
 
-The TTC Optimiser addresses this problem by comparing the backtest results of 1,600 parameter combinations and identifying the best-performing settings for a specific symbol and timeframe in just seconds.
+The TTC Optimiser simplifies this process by systematically evaluating all 1,600 parameter combinations and comparing their backtest results to identify the optimal settings for a specific symbol and timeframe — all within seconds.
 
 ## How to Use the TTC Optimiser
 
